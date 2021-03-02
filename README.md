@@ -11,9 +11,9 @@ SQLiteStudio is used here for database.
 Only RecognizerP.py file need to be run
 
 To run it u have to install
-  python 2.7
-  cv2
-  numpy
-  pillow
+  python 2.7,
+  cv2,
+  numpy,
+  pillow and 
   num2words
 
